@@ -7,3 +7,6 @@ def  hello(name):
 
 if __name__ == '__main__':
     print (hello("Python!"))
+
+
+    print "first commit"
